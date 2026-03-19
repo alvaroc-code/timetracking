@@ -21,6 +21,7 @@ crash.*.log
 # Editor directories and files
 .idea
 .vscode/
+.opencode/
 *.swp
 *.swo
 
